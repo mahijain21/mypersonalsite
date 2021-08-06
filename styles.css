@@ -33,7 +33,7 @@ h3{
 .top-container{
   background-color: #E4F9F5;
   position:relative;
-  padding-top: 65px;
+  padding-top: 60px;
 }
 .top-cloud{
   position: absolute;
@@ -51,7 +51,7 @@ h3{
 
 }
 .mountain{
-
+  padding-top: 20px;
 }
 .intro{
   padding-top: 70px;
